@@ -1,0 +1,663 @@
+[
+  {
+    "id": "1",
+    "title": "Classic Chocolate Chip Cookies",
+    "description": "These classic chocolate chip cookies are soft, chewy, and packed with chocolate. Perfect for any occasion!",
+    "author": "Jane Doe",
+    "rating": 4.5,
+    "date_published": "2024-10-10",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "24 cookies",
+    "image_url": "https://meaningfuleats.com/wp-content/uploads/2024/04/gluten-free-chocolate-chip-cookies.jpg",
+    "ingredients": [
+      { "name": "All-purpose flour", "quantity": "2", "unit": "cups", "notes": "Sifted" },
+      { "name": "Baking soda", "quantity": "1", "unit": "teaspoon", "notes": "" },
+      { "name": "Salt", "quantity": "1/2", "unit": "teaspoon", "notes": "" },
+      { "name": "Unsalted butter", "quantity": "1", "unit": "cup", "notes": "Melted" },
+      { "name": "Granulated sugar", "quantity": "3/4", "unit": "cup", "notes": "" },
+      { "name": "Brown sugar", "quantity": "3/4", "unit": "cup", "notes": "Packed" },
+      { "name": "Vanilla extract", "quantity": "1", "unit": "teaspoon", "notes": "" },
+      { "name": "Eggs", "quantity": "2", "unit": "", "notes": "Large" },
+      { "name": "Chocolate chips", "quantity": "2", "unit": "cups", "notes": "Semi-sweet" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Preheat oven to 350°F (175°C)." },
+      { "step_number": 2, "description": "In a bowl, whisk together flour, baking soda, and salt." },
+      { "step_number": 3, "description": "In another bowl, beat melted butter, granulated sugar, brown sugar, and vanilla until smooth." },
+      { "step_number": 4, "description": "Add eggs, one at a time, beating well after each addition." },
+      { "step_number": 5, "description": "Gradually mix in the dry ingredients until just combined." },
+      { "step_number": 6, "description": "Fold in the chocolate chips." },
+      { "step_number": 7, "description": "Drop rounded tablespoons of dough onto baking sheets lined with parchment paper." },
+      { "step_number": 8, "description": "Bake for 10-12 minutes, or until edges are golden." },
+      { "step_number": 9, "description": "Cool on the baking sheets for 5 minutes before transferring to wire racks." }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper. Simple yet delicious!",
+    "author": "John Smith",
+    "rating": 4.0,
+    "date_published": "2024-09-21",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes",
+    "total_time": "30 minutes",
+    "difficulty": "Intermediate",
+    "yield": "4 servings",
+    "image_url": "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg",
+    "ingredients": [
+      { "name": "Spaghetti", "quantity": "12", "unit": "oz", "notes": "" },
+      { "name": "Pancetta", "quantity": "4", "unit": "oz", "notes": "Diced" },
+      { "name": "Eggs", "quantity": "4", "unit": "", "notes": "" },
+      { "name": "Parmesan cheese", "quantity": "1", "unit": "cup", "notes": "Grated" },
+      { "name": "Black pepper", "quantity": "1", "unit": "teaspoon", "notes": "Freshly ground" },
+      { "name": "Salt", "quantity": "to taste", "unit": "", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Cook the spaghetti in salted boiling water until al dente." },
+      { "step_number": 2, "description": "In a large pan, cook pancetta until crispy." },
+      { "step_number": 3, "description": "In a bowl, whisk together eggs, grated Parmesan, and black pepper." },
+      { "step_number": 4, "description": "Drain the pasta and add it to the pancetta, tossing to combine." },
+      { "step_number": 5, "description": "Remove from heat, then stir in the egg mixture quickly to create a creamy sauce." },
+      { "step_number": 6, "description": "Serve immediately, garnished with extra Parmesan and pepper." }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Vegan Buddha Bowl",
+    "description": "A healthy and colorful bowl packed with grains, veggies, and a flavorful tahini dressing.",
+    "author": "Amy Green",
+    "rating": 4.3,
+    "date_published": "2024-08-15",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes",
+    "total_time": "35 minutes",
+    "difficulty": "Easy",
+    "yield": "2 servings",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6ay5qIhhDsFzIuETaGy3YaUqMCs5_6QlhQ&s",
+    "ingredients": [
+      { "name": "Quinoa", "quantity": "1", "unit": "cup", "notes": "Cooked" },
+      { "name": "Sweet potatoes", "quantity": "1", "unit": "large", "notes": "Cubed" },
+      { "name": "Chickpeas", "quantity": "1", "unit": "cup", "notes": "Roasted" },
+      { "name": "Avocado", "quantity": "1", "unit": "", "notes": "Sliced" },
+      { "name": "Spinach", "quantity": "2", "unit": "cups", "notes": "Fresh" },
+      { "name": "Tahini", "quantity": "2", "unit": "tablespoons", "notes": "For dressing" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Roast the sweet potatoes at 400°F (200°C) for 15 minutes." },
+      { "step_number": 2, "description": "Cook quinoa according to package instructions." },
+      { "step_number": 3, "description": "Assemble the bowl with quinoa, roasted sweet potatoes, chickpeas, avocado, and spinach." },
+      { "step_number": 4, "description": "Drizzle with tahini and serve." }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Beef Tacos",
+    "description": "Quick and easy beef tacos, perfect for a weeknight dinner.",
+    "author": "Michael Lee",
+    "rating": 4.4,
+    "date_published": "2024-09-05",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "6 tacos",
+    "image_url": "https://www.dinneratthezoo.com/wp-content/uploads/2018/05/ground-beef-tacos-2.jpg",
+    "ingredients": [
+      { "name": "Ground beef", "quantity": "1", "unit": "lb", "notes": "" },
+      { "name": "Taco seasoning", "quantity": "1", "unit": "packet", "notes": "" },
+      { "name": "Tortillas", "quantity": "6", "unit": "", "notes": "" },
+      { "name": "Lettuce", "quantity": "1", "unit": "cup", "notes": "Shredded" },
+      { "name": "Cheddar cheese", "quantity": "1", "unit": "cup", "notes": "Shredded" },
+      { "name": "Salsa", "quantity": "1/2", "unit": "cup", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Cook the ground beef in a skillet over medium heat until browned." },
+      { "step_number": 2, "description": "Add taco seasoning and water according to the package instructions." },
+      { "step_number": 3, "description": "Warm the tortillas in a pan or microwave." },
+      { "step_number": 4, "description": "Assemble tacos with beef, lettuce, cheese, and salsa." }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Classic Chocolate Chip Cookies",
+    "description": "These classic chocolate chip cookies are soft, chewy, and packed with chocolate. Perfect for any occasion!",
+    "author": "Jane Doe",
+    "rating": 3.8,
+    "date_published": "2024-10-10",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "24 cookies",
+    "image_url": "https://example.com/images/chocolate-chip-cookies.jpg",
+    "ingredients": [
+      {
+        "name": "All-purpose flour",
+        "quantity": "2",
+        "unit": "cups",
+        "notes": "Sifted"
+      },
+      {
+        "name": "Baking soda",
+        "quantity": "1",
+        "unit": "teaspoon",
+        "notes": ""
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2",
+        "unit": "teaspoon",
+        "notes": ""
+      },
+      {
+        "name": "Unsalted butter",
+        "quantity": "1",
+        "unit": "cup",
+        "notes": "Melted"
+      },
+      {
+        "name": "Granulated sugar",
+        "quantity": "3/4",
+        "unit": "cup",
+        "notes": ""
+      },
+      {
+        "name": "Brown sugar",
+        "quantity": "3/4",
+        "unit": "cup",
+        "notes": "Packed"
+      },
+      {
+        "name": "Vanilla extract",
+        "quantity": "1",
+        "unit": "teaspoon",
+        "notes": ""
+      },
+      {
+        "name": "Eggs",
+        "quantity": "2",
+        "unit": "",
+        "notes": "Large"
+      },
+      {
+        "name": "Chocolate chips",
+        "quantity": "2",
+        "unit": "cups",
+        "notes": "Semi-sweet"
+      }
+    ],
+    "instructions": [
+      {
+        "step_number": 1,
+        "description": "Preheat oven to 350°F (175°C)."
+      },
+      {
+        "step_number": 2,
+        "description": "In a bowl, whisk together flour, baking soda, and salt."
+      },
+      {
+        "step_number": 3,
+        "description": "In another bowl, beat melted butter, granulated sugar, brown sugar, and vanilla until smooth."
+      },
+      {
+        "step_number": 4,
+        "description": "Add eggs, one at a time, beating well after each addition."
+      },
+      {
+        "step_number": 5,
+        "description": "Gradually mix in the dry ingredients until just combined."
+      },
+      {
+        "step_number": 6,
+        "description": "Fold in the chocolate chips."
+      },
+      {
+        "step_number": 7,
+        "description": "Drop rounded tablespoons of dough onto baking sheets lined with parchment paper."
+      },
+      {
+        "step_number": 8,
+        "description": "Bake for 10-12 minutes, or until edges are golden."
+      },
+      {
+        "step_number": 9,
+        "description": "Cool on the baking sheets for 5 minutes before transferring to wire racks."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Chicken Alfredo Pasta",
+    "description": "A creamy and delicious pasta dish with tender chicken, served in a rich Alfredo sauce.",
+    "author": "Laura Brown",
+    "rating": 4.6,
+    "date_published": "2024-08-12",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes",
+    "total_time": "30 minutes",
+    "difficulty": "Intermediate",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/chicken-alfredo.jpg",
+    "ingredients": [
+      { "name": "Fettuccine pasta", "quantity": "12", "unit": "oz", "notes": "" },
+      { "name": "Chicken breast", "quantity": "2", "unit": "pieces", "notes": "Boneless, skinless" },
+      { "name": "Heavy cream", "quantity": "1", "unit": "cup", "notes": "" },
+      { "name": "Parmesan cheese", "quantity": "1/2", "unit": "cup", "notes": "Grated" },
+      { "name": "Garlic", "quantity": "2", "unit": "cloves", "notes": "Minced" },
+      { "name": "Butter", "quantity": "2", "unit": "tablespoons", "notes": "" },
+      { "name": "Salt", "quantity": "to taste", "unit": "", "notes": "" },
+      { "name": "Black pepper", "quantity": "to taste", "unit": "", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Cook fettuccine according to package instructions." },
+      { "step_number": 2, "description": "In a skillet, cook the chicken breasts until fully cooked, then slice." },
+      { "step_number": 3, "description": "In a saucepan, melt butter and sauté garlic until fragrant." },
+      { "step_number": 4, "description": "Add heavy cream and Parmesan cheese to create the Alfredo sauce." },
+      { "step_number": 5, "description": "Toss the pasta and chicken in the sauce, and serve hot." }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Vegetarian Stir-Fry",
+    "description": "A colorful vegetable stir-fry with a soy-ginger sauce. Perfect for a quick and healthy meal.",
+    "author": "Mark Johnson",
+    "rating": 4.1,
+    "date_published": "2024-07-20",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "3 servings",
+    "image_url": "https://example.com/images/vegetarian-stir-fry.jpg",
+    "ingredients": [
+      { "name": "Broccoli", "quantity": "1", "unit": "cup", "notes": "Chopped" },
+      { "name": "Bell peppers", "quantity": "2", "unit": "", "notes": "Sliced" },
+      { "name": "Carrots", "quantity": "1", "unit": "cup", "notes": "Julienned" },
+      { "name": "Soy sauce", "quantity": "1/4", "unit": "cup", "notes": "" },
+      { "name": "Ginger", "quantity": "1", "unit": "tablespoon", "notes": "Grated" },
+      { "name": "Garlic", "quantity": "2", "unit": "cloves", "notes": "Minced" },
+      { "name": "Sesame oil", "quantity": "1", "unit": "tablespoon", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Heat sesame oil in a wok and sauté garlic and ginger." },
+      { "step_number": 2, "description": "Add broccoli, bell peppers, and carrots, and stir-fry for 5 minutes." },
+      { "step_number": 3, "description": "Add soy sauce and toss the vegetables until evenly coated." },
+      { "step_number": 4, "description": "Serve hot over steamed rice or noodles." }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "French Toast",
+    "description": "A classic breakfast dish made with bread soaked in an egg mixture and fried to perfection.",
+    "author": "Sara Evans",
+    "rating": 4.4,
+    "date_published": "2024-06-30",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes",
+    "total_time": "15 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/french-toast.jpg",
+    "ingredients": [
+      { "name": "Bread", "quantity": "8", "unit": "slices", "notes": "" },
+      { "name": "Eggs", "quantity": "4", "unit": "", "notes": "Beaten" },
+      { "name": "Milk", "quantity": "1/2", "unit": "cup", "notes": "" },
+      { "name": "Cinnamon", "quantity": "1/2", "unit": "teaspoon", "notes": "" },
+      { "name": "Vanilla extract", "quantity": "1", "unit": "teaspoon", "notes": "" },
+      { "name": "Butter", "quantity": "2", "unit": "tablespoons", "notes": "For frying" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "In a bowl, whisk together eggs, milk, cinnamon, and vanilla." },
+      { "step_number": 2, "description": "Dip each slice of bread into the egg mixture, coating both sides." },
+      { "step_number": 3, "description": "Melt butter in a skillet and cook the bread slices until golden brown on each side." },
+      { "step_number": 4, "description": "Serve with syrup, fresh fruit, or powdered sugar." }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Lemon Garlic Shrimp",
+    "description": "Succulent shrimp cooked in a lemon garlic sauce, served with pasta or rice.",
+    "author": "James Miller",
+    "rating": 3.9,
+    "date_published": "2024-07-04",
+    "prep_time": "10 minutes",
+    "cook_time": "8 minutes",
+    "total_time": "18 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/lemon-garlic-shrimp.jpg",
+    "ingredients": [
+      { "name": "Shrimp", "quantity": "1", "unit": "lb", "notes": "Peeled and deveined" },
+      { "name": "Garlic", "quantity": "4", "unit": "cloves", "notes": "Minced" },
+      { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons", "notes": "" },
+      { "name": "Butter", "quantity": "3", "unit": "tablespoons", "notes": "" },
+      { "name": "Parsley", "quantity": "1", "unit": "tablespoon", "notes": "Chopped" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Melt butter in a skillet and sauté garlic until fragrant." },
+      { "step_number": 2, "description": "Add shrimp and cook for 3-4 minutes until pink." },
+      { "step_number": 3, "description": "Stir in lemon juice and parsley, and cook for another minute." },
+      { "step_number": 4, "description": "Serve immediately with pasta or rice." }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "BBQ Chicken Pizza",
+    "description": "A delicious homemade pizza topped with BBQ chicken, red onions, and mozzarella cheese.",
+    "author": "Katie Wright",
+    "rating": 4.9,
+    "date_published": "2024-08-10",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes",
+    "total_time": "35 minutes",
+    "difficulty": "Intermediate",
+    "yield": "8 slices",
+    "image_url": "https://example.com/images/bbq-chicken-pizza.jpg",
+    "ingredients": [
+      { "name": "Pizza dough", "quantity": "1", "unit": "ball", "notes": "Homemade or store-bought" },
+      { "name": "BBQ sauce", "quantity": "1/2", "unit": "cup", "notes": "" },
+      { "name": "Chicken breast", "quantity": "1", "unit": "", "notes": "Cooked and shredded" },
+      { "name": "Mozzarella cheese", "quantity": "1", "unit": "cup", "notes": "Shredded" },
+      { "name": "Red onion", "quantity": "1/4", "unit": "cup", "notes": "Sliced" },
+      { "name": "Cilantro", "quantity": "2", "unit": "tablespoons", "notes": "Chopped" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Preheat oven to 475°F (245°C)." },
+      { "step_number": 2, "description": "Roll out the pizza dough and spread BBQ sauce evenly on top." },
+      { "step_number": 3, "description": "Top with shredded chicken, mozzarella, and red onions." },
+      { "step_number": 4, "description": "Bake for 15-20 minutes until the crust is golden and the cheese is melted." },
+      { "step_number": 5, "description": "Garnish with cilantro and serve." }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Caesar Salad",
+    "description": "A classic Caesar salad with crisp romaine, creamy dressing, croutons, and Parmesan cheese.",
+    "author": "Natalie Green",
+    "rating": 3.9,
+    "date_published": "2024-09-10",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes",
+    "total_time": "10 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/caesar-salad.jpg",
+    "ingredients": [
+      { "name": "Romaine lettuce", "quantity": "1", "unit": "head", "notes": "Chopped" },
+      { "name": "Croutons", "quantity": "1", "unit": "cup", "notes": "" },
+      { "name": "Parmesan cheese", "quantity": "1/4", "unit": "cup", "notes": "Shredded" },
+      { "name": "Caesar dressing", "quantity": "1/2", "unit": "cup", "notes": "Store-bought or homemade" },
+      { "name": "Black pepper", "quantity": "to taste", "unit": "", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "In a large bowl, combine chopped romaine, croutons, and Parmesan cheese." },
+      { "step_number": 2, "description": "Drizzle with Caesar dressing and toss to coat." },
+      { "step_number": 3, "description": "Season with black pepper and serve immediately." }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Mango Smoothie",
+    "description": "A refreshing mango smoothie made with ripe mango, yogurt, and a hint of honey.",
+    "author": "Brian Collins",
+    "rating": 4.9,
+    "date_published": "2024-08-25",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes",
+    "total_time": "5 minutes",
+    "difficulty": "Easy",
+    "yield": "2 servings",
+    "image_url": "https://example.com/images/mango-smoothie.jpg",
+    "ingredients": [
+      { "name": "Ripe mango", "quantity": "1", "unit": "", "notes": "Peeled and diced" },
+      { "name": "Greek yogurt", "quantity": "1/2", "unit": "cup", "notes": "Plain" },
+      { "name": "Honey", "quantity": "1", "unit": "tablespoon", "notes": "Optional" },
+      { "name": "Ice", "quantity": "1", "unit": "cup", "notes": "" },
+      { "name": "Milk", "quantity": "1/2", "unit": "cup", "notes": "Any kind" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "In a blender, combine mango, yogurt, honey, ice, and milk." },
+      { "step_number": 2, "description": "Blend until smooth and creamy." },
+      { "step_number": 3, "description": "Pour into glasses and serve immediately." }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Stuffed Bell Peppers",
+    "description": "Bell peppers stuffed with a flavorful mixture of ground beef, rice, and tomatoes.",
+    "author": "Sophia Turner",
+    "rating": 4.1,
+    "date_published": "2024-09-15",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes",
+    "total_time": "45 minutes",
+    "difficulty": "Intermediate",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/stuffed-bell-peppers.jpg",
+    "ingredients": [
+      { "name": "Bell peppers", "quantity": "4", "unit": "", "notes": "Any color" },
+      { "name": "Ground beef", "quantity": "1", "unit": "lb", "notes": "" },
+      { "name": "Cooked rice", "quantity": "1", "unit": "cup", "notes": "" },
+      { "name": "Tomato sauce", "quantity": "1", "unit": "cup", "notes": "" },
+      { "name": "Onion", "quantity": "1", "unit": "", "notes": "Chopped" },
+      { "name": "Garlic", "quantity": "2", "unit": "cloves", "notes": "Minced" },
+      { "name": "Cheddar cheese", "quantity": "1", "unit": "cup", "notes": "Shredded" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Preheat oven to 375°F (190°C)." },
+      { "step_number": 2, "description": "In a skillet, cook onion and garlic until soft." },
+      { "step_number": 3, "description": "Add ground beef and cook until browned. Stir in rice, tomato sauce, and seasonings." },
+      { "step_number": 4, "description": "Cut tops off bell peppers and remove seeds. Stuff with the beef mixture." },
+      { "step_number": 5, "description": "Top with shredded cheese and bake for 25-30 minutes." }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Pumpkin Soup",
+    "description": "A creamy and comforting pumpkin soup, perfect for fall.",
+    "author": "Olivia Harris",
+    "rating": 4.0,
+    "date_published": "2024-10-05",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes",
+    "total_time": "40 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/pumpkin-soup.jpg",
+    "ingredients": [
+      { "name": "Pumpkin puree", "quantity": "2", "unit": "cups", "notes": "Canned or fresh" },
+      { "name": "Onion", "quantity": "1", "unit": "", "notes": "Chopped" },
+      { "name": "Garlic", "quantity": "2", "unit": "cloves", "notes": "Minced" },
+      { "name": "Vegetable broth", "quantity": "4", "unit": "cups", "notes": "" },
+      { "name": "Heavy cream", "quantity": "1/2", "unit": "cup", "notes": "Optional" },
+      { "name": "Salt", "quantity": "to taste", "unit": "", "notes": "" },
+      { "name": "Pepper", "quantity": "to taste", "unit": "", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "In a pot, sauté onion and garlic until translucent." },
+      { "step_number": 2, "description": "Add pumpkin puree and vegetable broth, then simmer for 20 minutes." },
+      { "step_number": 3, "description": "Blend until smooth. Stir in heavy cream if using." },
+      { "step_number": 4, "description": "Season with salt and pepper to taste." }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Chocolate Mousse",
+    "description": "A rich and fluffy chocolate mousse, perfect for dessert lovers.",
+    "author": "Ella Scott",
+    "rating": 4.1,
+    "date_published": "2024-10-02",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes",
+    "total_time": "15 minutes",
+    "difficulty": "Intermediate",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/chocolate-mousse.jpg",
+    "ingredients": [
+      { "name": "Dark chocolate", "quantity": "6", "unit": "oz", "notes": "Chopped" },
+      { "name": "Eggs", "quantity": "3", "unit": "", "notes": "Separated" },
+      { "name": "Sugar", "quantity": "1/4", "unit": "cup", "notes": "" },
+      { "name": "Heavy cream", "quantity": "1", "unit": "cup", "notes": "Whipped" },
+      { "name": "Vanilla extract", "quantity": "1", "unit": "teaspoon", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Melt dark chocolate in a bowl over simmering water." },
+      { "step_number": 2, "description": "In another bowl, beat egg whites until stiff peaks form." },
+      { "step_number": 3, "description": "In a third bowl, beat egg yolks with sugar until pale, then stir in melted chocolate and vanilla." },
+      { "step_number": 4, "description": "Fold in whipped cream and egg whites gently." },
+      { "step_number": 5, "description": "Divide into serving dishes and refrigerate for at least 2 hours." }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Beef Tacos",
+    "description": "Delicious beef tacos with fresh toppings, perfect for a quick meal.",
+    "author": "Jacob Young",
+    "rating": 4.7,
+    "date_published": "2024-09-20",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/beef-tacos.jpg",
+    "ingredients": [
+      { "name": "Ground beef", "quantity": "1", "unit": "lb", "notes": "" },
+      { "name": "Taco seasoning", "quantity": "1", "unit": "packet", "notes": "" },
+      { "name": "Taco shells", "quantity": "8", "unit": "", "notes": "" },
+      { "name": "Lettuce", "quantity": "1", "unit": "cup", "notes": "Shredded" },
+      { "name": "Tomato", "quantity": "1", "unit": "cup", "notes": "Diced" },
+      { "name": "Cheddar cheese", "quantity": "1", "unit": "cup", "notes": "Shredded" },
+      { "name": "Sour cream", "quantity": "1/2", "unit": "cup", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "In a skillet, cook ground beef until browned, then drain excess fat." },
+      { "step_number": 2, "description": "Add taco seasoning and water according to package instructions." },
+      { "step_number": 3, "description": "Warm taco shells in the oven." },
+      { "step_number": 4, "description": "Fill each shell with beef and top with lettuce, tomato, cheese, and sour cream." }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Garlic Bread",
+    "description": "Crispy and buttery garlic bread, perfect as a side dish.",
+    "author": "Liam King",
+    "rating": 4.0,
+    "date_published": "2024-09-05",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes",
+    "total_time": "15 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/garlic-bread.jpg",
+    "ingredients": [
+      { "name": "Baguette", "quantity": "1", "unit": "", "notes": "Sliced in half" },
+      { "name": "Butter", "quantity": "1/2", "unit": "cup", "notes": "Softened" },
+      { "name": "Garlic", "quantity": "4", "unit": "cloves", "notes": "Minced" },
+      { "name": "Parsley", "quantity": "2", "unit": "tablespoons", "notes": "Chopped" },
+      { "name": "Salt", "quantity": "1/4", "unit": "teaspoon", "notes": "Optional" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Preheat oven to 400°F (200°C)." },
+      { "step_number": 2, "description": "In a bowl, mix butter, garlic, parsley, and salt." },
+      { "step_number": 3, "description": "Spread the mixture on the cut sides of the baguette." },
+      { "step_number": 4, "description": "Bake for 10 minutes until golden and crispy." }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Oven-Baked Salmon",
+    "description": "Simple and healthy oven-baked salmon with lemon and herbs.",
+    "author": "Ella Robinson",
+    "rating": 4.3,
+    "date_published": "2024-09-25",
+    "prep_time": "5 minutes",
+    "cook_time": "20 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/baked-salmon.jpg",
+    "ingredients": [
+      { "name": "Salmon fillets", "quantity": "4", "unit": "", "notes": "Skinless" },
+      { "name": "Lemon", "quantity": "1", "unit": "", "notes": "Juiced" },
+      { "name": "Olive oil", "quantity": "2", "unit": "tablespoons", "notes": "" },
+      { "name": "Dill", "quantity": "1", "unit": "tablespoon", "notes": "Fresh or dried" },
+      { "name": "Salt", "quantity": "to taste", "unit": "", "notes": "" },
+      { "name": "Black pepper", "quantity": "to taste", "unit": "", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Preheat oven to 375°F (190°C)." },
+      { "step_number": 2, "description": "Place salmon on a baking sheet lined with parchment paper." },
+      { "step_number": 3, "description": "Drizzle with olive oil and lemon juice, and sprinkle with dill, salt, and pepper." },
+      { "step_number": 4, "description": "Bake for 15-20 minutes until salmon is flaky." }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Apple Crisp",
+    "description": "A warm and comforting apple crisp topped with a crunchy oat topping.",
+    "author": "Zoe Brooks",
+    "rating": 4.0,
+    "date_published": "2024-10-08",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes",
+    "total_time": "45 minutes",
+    "difficulty": "Easy",
+    "yield": "6 servings",
+    "image_url": "https://example.com/images/apple-crisp.jpg",
+    "ingredients": [
+      { "name": "Apples", "quantity": "6", "unit": "", "notes": "Peeled and sliced" },
+      { "name": "Brown sugar", "quantity": "1/2", "unit": "cup", "notes": "" },
+      { "name": "Oats", "quantity": "1", "unit": "cup", "notes": "" },
+      { "name": "Flour", "quantity": "1/2", "unit": "cup", "notes": "" },
+      { "name": "Butter", "quantity": "1/2", "unit": "cup", "notes": "Melted" },
+      { "name": "Cinnamon", "quantity": "1", "unit": "teaspoon", "notes": "" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Preheat oven to 350°F (175°C)." },
+      { "step_number": 2, "description": "In a baking dish, toss sliced apples with brown sugar and cinnamon." },
+      { "step_number": 3, "description": "In a bowl, mix oats, flour, and melted butter until crumbly." },
+      { "step_number": 4, "description": "Sprinkle the oat mixture over the apples." },
+      { "step_number": 5, "description": "Bake for 30 minutes until golden brown." }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Pasta Primavera",
+    "description": "A colorful pasta dish filled with fresh vegetables, tossed in a light olive oil sauce.",
+    "author": "Nathan Carter",
+    "rating": 4.1,
+    "date_published": "2024-09-28",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "total_time": "25 minutes",
+    "difficulty": "Easy",
+    "yield": "4 servings",
+    "image_url": "https://example.com/images/pasta-primavera.jpg",
+    "ingredients": [
+      { "name": "Pasta", "quantity": "12", "unit": "oz", "notes": "Any type" },
+      { "name": "Zucchini", "quantity": "1", "unit": "", "notes": "Sliced" },
+      { "name": "Bell pepper", "quantity": "1", "unit": "", "notes": "Sliced" },
+      { "name": "Cherry tomatoes", "quantity": "1", "unit": "cup", "notes": "Halved" },
+      { "name": "Olive oil", "quantity": "2", "unit": "tablespoons", "notes": "" },
+      { "name": "Garlic", "quantity": "2", "unit": "cloves", "notes": "Minced" },
+      { "name": "Basil", "quantity": "1/4", "unit": "cup", "notes": "Fresh, chopped" }
+    ],
+    "instructions": [
+      { "step_number": 1, "description": "Cook pasta according to package instructions." },
+      { "step_number": 2, "description": "In a skillet, heat olive oil over medium heat. Add garlic and sauté until fragrant." },
+      { "step_number": 3, "description": "Add zucchini, bell pepper, and tomatoes, and sauté until tender." },
+      { "step_number": 4, "description": "Toss cooked pasta with the vegetables and basil. Season to taste." }
+    ]
+  }
+]
+
+
+
+
+
+

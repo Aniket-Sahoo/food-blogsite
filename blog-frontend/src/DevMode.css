@@ -1,0 +1,14 @@
+.thick-border {
+  border-width: 3.5px; /* Set the thickness you desire */
+  border-style: dashed; /* You can change the style (solid, dashed, etc.) */
+}
+
+.medium-border {
+  border-width: 3.5px; /* Set the thickness you desire */
+  border-style: dashed; /* You can change the style (solid, dashed, etc.) */
+}
+
+.thin-border {
+  border-width: 2.5px; /* Set the thickness you desire */
+  border-style: solid; /* You can change the style (solid, dashed, etc.) */
+}

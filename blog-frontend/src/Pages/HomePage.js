@@ -2,6 +2,7 @@ import MyNavbar from "../Components/MyNavbar";
 import TestNavbar from "../Components/TestNavBar";
 import TestNavbar2 from "../Components/TestNavbar2";
 import TestFlexBox from "../Components/TestFlexBox";
+import TopRecipesComponent from "../Components/HomePageComponents/TopRecipesComponent/TopRecipesComponent";
 
 const HomePage = () => {
   return (
@@ -9,6 +10,7 @@ const HomePage = () => {
       {/* <MyNavbar /> */}
       {/* <TestNavbar /> */}
       <TestNavbar2 />
+      <TopRecipesComponent />
       {/* <TestFlexBox /> */}
       {/* <h1>Home Page</h1> */}
     </div>

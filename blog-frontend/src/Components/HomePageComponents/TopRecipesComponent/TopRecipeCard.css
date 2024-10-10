@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .top-recipe-image {
+    height: 12rem; /* Set a fixed height */
+    object-fit: cover; /* Maintain aspect ratio and cover the area */
+  }
+}
+
+@media (max-width: 768px) {
+  .top-recipe-image {
+    height: 10rem; /* Set a fixed height */
+    object-fit: cover; /* Maintain aspect ratio and cover the area */
+  }
+}
