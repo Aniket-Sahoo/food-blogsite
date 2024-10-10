@@ -7,9 +7,9 @@ const TopRecipesComponent = () => {
   const topRecipes = SampleArticles.slice(0, 4);
   console.log(topRecipes);
   return (
-    <Container className="thick-border border-primary">
+    <Container className="thick-border border-primary mb-2 py-2">
       <div className="">
-        <h2>Top Recipes</h2>
+        <h2>Our Most Loved</h2>
       </div>
       <Row xs={2} sm={2} lg={4} className="g-4">
         {topRecipes.map((recipe, idx) => (

@@ -3,6 +3,7 @@ import TestNavbar from "../Components/TestNavBar";
 import TestNavbar2 from "../Components/TestNavbar2";
 import TestFlexBox from "../Components/TestFlexBox";
 import TopRecipesComponent from "../Components/HomePageComponents/TopRecipesComponent/TopRecipesComponent";
+import ExploreComponent from "../Components/HomePageComponents/ExploreComponent/ExploreComponent"; 
 
 const HomePage = () => {
   return (
@@ -11,6 +12,7 @@ const HomePage = () => {
       {/* <TestNavbar /> */}
       <TestNavbar2 />
       <TopRecipesComponent />
+      <ExploreComponent />
       {/* <TestFlexBox /> */}
       {/* <h1>Home Page</h1> */}
     </div>
