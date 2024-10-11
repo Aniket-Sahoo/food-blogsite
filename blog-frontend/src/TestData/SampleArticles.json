@@ -11,6 +11,14 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "24 cookies",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 3, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 3, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 3, "comment": "", "date": "2024-10-14"},
+      {"name": "John Smith", "rating": 4, "comment": "", "date": "2024-10-15"},
+      {"name": "Jorge Smith", "rating": 5, "comment": "Friends love it!", "date": "2024-10-15"}
+    ],
     "image_url": "https://meaningfuleats.com/wp-content/uploads/2024/04/gluten-free-chocolate-chip-cookies.jpg",
     "ingredients": [
       { "name": "All-purpose flour", "quantity": "2", "unit": "cups", "notes": "Sifted" },
@@ -47,6 +55,12 @@
     "total_time": "30 minutes",
     "difficulty": "Intermediate",
     "yield": "4 servings",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 2, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 5, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 4, "comment": "Good", "date": "2024-10-14"}
+    ],
     "image_url": "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg",
     "ingredients": [
       { "name": "Spaghetti", "quantity": "12", "unit": "oz", "notes": "" },
@@ -77,6 +91,7 @@
     "total_time": "35 minutes",
     "difficulty": "Easy",
     "yield": "2 servings",
+    "reviews": [],
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6ay5qIhhDsFzIuETaGy3YaUqMCs5_6QlhQ&s",
     "ingredients": [
       { "name": "Quinoa", "quantity": "1", "unit": "cup", "notes": "Cooked" },
@@ -105,6 +120,12 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "6 tacos",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 2, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 5, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 4, "comment": "Good", "date": "2024-10-14"}
+    ],
     "image_url": "https://www.dinneratthezoo.com/wp-content/uploads/2018/05/ground-beef-tacos-2.jpg",
     "ingredients": [
       { "name": "Ground beef", "quantity": "1", "unit": "lb", "notes": "" },
@@ -133,6 +154,12 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "24 cookies",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 2, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 5, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 4, "comment": "Good", "date": "2024-10-14"}
+    ],
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLL4fFJ89AKwQvC2IumQE8Ywqij2hMgVRVLw&s",
     "ingredients": [
       {
@@ -241,6 +268,12 @@
     "total_time": "30 minutes",
     "difficulty": "Intermediate",
     "yield": "4 servings",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 2, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 5, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 4, "comment": "Good", "date": "2024-10-14"}
+    ],
     "image_url": "https://www.allrecipes.com/thmb/gTibTRJ8MW87L0jMhAvXPjIDD94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19402-quick-and-easy-alfredo-sauce-DDMFS-4x3-17abb2055c714807944172db9172b045.jpg",
     "ingredients": [
       { "name": "Fettuccine pasta", "quantity": "12", "unit": "oz", "notes": "" },
@@ -272,6 +305,12 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "3 servings",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 2, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 5, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 4, "comment": "Good", "date": "2024-10-14"}
+    ],
     "image_url": "https://www.budgetbytes.com/wp-content/uploads/2024/01/Chicken-Stir-Fry-Pan.jpg",
     "ingredients": [
       { "name": "Broccoli", "quantity": "1", "unit": "cup", "notes": "Chopped" },
@@ -301,6 +340,12 @@
     "total_time": "15 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
+    "reviews": [
+      {"name": "John Doe", "rating": 4, "comment": "Great Taste!", "date": "2024-10-11"}, 
+      {"name": "Jane Doe", "rating": 2, "comment": "Could be better", "date": "2024-10-12"}, 
+      {"name": "John Smith", "rating": 5, "comment": "Amazing!", "date": "2024-10-13"}, 
+      {"name": "Jane Smith", "rating": 4, "comment": "Good", "date": "2024-10-14"}
+    ],
     "image_url": "https://www.inspiredtaste.net/wp-content/uploads/2024/07/French-Toast-Recipe-2.jpg",
     "ingredients": [
       { "name": "Bread", "quantity": "8", "unit": "slices", "notes": "" },
