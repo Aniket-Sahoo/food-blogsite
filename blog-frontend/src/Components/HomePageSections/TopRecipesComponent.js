@@ -1,9 +1,9 @@
 import { CardGroup, Card, Row, Col, Container } from "react-bootstrap";
-import SampleArticles from "../../../TestData/SampleArticles.json";
+import SampleArticles from "../../TestData/SampleArticles.json";
 import './TopRecipeCard.css';
-import '../../../DevMode.css';
-import RecipeListComponent1 from "../../RecipeListComponents/RecipeListComponent1";
-import RecipeListComponent2 from "../../RecipeListComponents/RecipeListComponent2";
+import '../../DevMode.css';
+import RecipeListComponent1 from "../RecipeListComponents/RecipeListComponent1";
+import RecipeListComponent2 from "../RecipeListComponents/RecipeListComponent2";
 
 const TopRecipesComponent = () => {
   const topRecipes = SampleArticles.slice(0, 4);
