@@ -1,6 +1,6 @@
 import Container from 'react-bootstrap/Container';
 import Accordion from 'react-bootstrap/Accordion';
-import '../../../DevMode.css';
+import '../../DevMode.css';
 
 function ExploreComponent() {
   return (

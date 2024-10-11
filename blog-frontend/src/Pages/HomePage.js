@@ -1,21 +1,27 @@
-import MyNavbar from "../Components/MyNavbar";
 import TestNavbar from "../Components/TestNavBar";
 import TestNavbar2 from "../Components/TestNavbar2";
 import TestFlexBox from "../Components/TestFlexBox";
-import TopRecipesComponent from "../Components/HomePageComponents/TopRecipesComponent/TopRecipesComponent";
-import ExploreComponent from "../Components/HomePageComponents/ExploreComponent/ExploreComponent"; 
+import TopRecipesComponent from "../Components/HomePageSections/TopRecipesComponent/TopRecipesComponent";
+import ExploreComponent from "../Components/HomePageSections/ExploreComponent.js"; 
+import Container from "react-bootstrap/Container";
+import LatestRecipesComponent from "../Components/HomePageSections/LatestRecipes.js";
 
 const HomePage = () => {
   return (
-    <div className="col-xs-12 col-md-12">
-      {/* <MyNavbar /> */}
-      {/* <TestNavbar /> */}
+    <>
       <TestNavbar2 />
-      <TopRecipesComponent />
-      <ExploreComponent />
-      {/* <TestFlexBox /> */}
-      {/* <h1>Home Page</h1> */}
-    </div>
+      <Container className="border">
+        {/* <TestNavbar /> */}
+        <TopRecipesComponent />
+        <ExploreComponent />
+        <LatestRecipesComponent />
+        {/* <TestFlexBox /> */}
+        {/* <h1>Home Page</h1> */}
+        {/* <TestComponent /> */}
+
+      </Container>
+    </>
+
   )
 }
 

@@ -7,7 +7,7 @@
 
 @media (max-width: 768px) {
   .top-recipe-image {
-    height: 10rem; /* Set a fixed height */
+    height: 9rem; /* Set a fixed height */
     object-fit: cover; /* Maintain aspect ratio and cover the area */
   }
 }

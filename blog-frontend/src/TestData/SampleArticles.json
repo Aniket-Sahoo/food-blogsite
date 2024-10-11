@@ -123,7 +123,7 @@
   },
   {
     "id": "5",
-    "title": "Classic Chocolate Chip Cookies",
+    "title": "Decadent Chocolate Cake",
     "description": "These classic chocolate chip cookies are soft, chewy, and packed with chocolate. Perfect for any occasion!",
     "author": "Jane Doe",
     "rating": 3.8,
@@ -133,7 +133,7 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "24 cookies",
-    "image_url": "https://example.com/images/chocolate-chip-cookies.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLL4fFJ89AKwQvC2IumQE8Ywqij2hMgVRVLw&s",
     "ingredients": [
       {
         "name": "All-purpose flour",
@@ -241,7 +241,7 @@
     "total_time": "30 minutes",
     "difficulty": "Intermediate",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/chicken-alfredo.jpg",
+    "image_url": "https://www.allrecipes.com/thmb/gTibTRJ8MW87L0jMhAvXPjIDD94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19402-quick-and-easy-alfredo-sauce-DDMFS-4x3-17abb2055c714807944172db9172b045.jpg",
     "ingredients": [
       { "name": "Fettuccine pasta", "quantity": "12", "unit": "oz", "notes": "" },
       { "name": "Chicken breast", "quantity": "2", "unit": "pieces", "notes": "Boneless, skinless" },
@@ -272,7 +272,7 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "3 servings",
-    "image_url": "https://example.com/images/vegetarian-stir-fry.jpg",
+    "image_url": "https://www.budgetbytes.com/wp-content/uploads/2024/01/Chicken-Stir-Fry-Pan.jpg",
     "ingredients": [
       { "name": "Broccoli", "quantity": "1", "unit": "cup", "notes": "Chopped" },
       { "name": "Bell peppers", "quantity": "2", "unit": "", "notes": "Sliced" },
@@ -301,7 +301,7 @@
     "total_time": "15 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/french-toast.jpg",
+    "image_url": "https://www.inspiredtaste.net/wp-content/uploads/2024/07/French-Toast-Recipe-2.jpg",
     "ingredients": [
       { "name": "Bread", "quantity": "8", "unit": "slices", "notes": "" },
       { "name": "Eggs", "quantity": "4", "unit": "", "notes": "Beaten" },
@@ -329,7 +329,7 @@
     "total_time": "18 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/lemon-garlic-shrimp.jpg",
+    "image_url": "https://www.oliveandmango.com/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_2.jpg",
     "ingredients": [
       { "name": "Shrimp", "quantity": "1", "unit": "lb", "notes": "Peeled and deveined" },
       { "name": "Garlic", "quantity": "4", "unit": "cloves", "notes": "Minced" },
@@ -349,14 +349,14 @@
     "title": "BBQ Chicken Pizza",
     "description": "A delicious homemade pizza topped with BBQ chicken, red onions, and mozzarella cheese.",
     "author": "Katie Wright",
-    "rating": 4.9,
+    "rating": 3.7,
     "date_published": "2024-08-10",
     "prep_time": "15 minutes",
     "cook_time": "20 minutes",
     "total_time": "35 minutes",
     "difficulty": "Intermediate",
     "yield": "8 slices",
-    "image_url": "https://example.com/images/bbq-chicken-pizza.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTnD0_B1mZiOEc38C62n5oimw7Ii1nlsAaw&s",
     "ingredients": [
       { "name": "Pizza dough", "quantity": "1", "unit": "ball", "notes": "Homemade or store-bought" },
       { "name": "BBQ sauce", "quantity": "1/2", "unit": "cup", "notes": "" },
@@ -385,7 +385,7 @@
     "total_time": "10 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/caesar-salad.jpg",
+    "image_url": "https://natashaskitchen.com/wp-content/uploads/2019/01/Caesar-Salad-Recipe-3.jpg",
     "ingredients": [
       { "name": "Romaine lettuce", "quantity": "1", "unit": "head", "notes": "Chopped" },
       { "name": "Croutons", "quantity": "1", "unit": "cup", "notes": "" },
@@ -411,7 +411,7 @@
     "total_time": "5 minutes",
     "difficulty": "Easy",
     "yield": "2 servings",
-    "image_url": "https://example.com/images/mango-smoothie.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkO3ZGw-YVJMXr6tEqmoDPmuugJ4XKMTBaew&s",
     "ingredients": [
       { "name": "Ripe mango", "quantity": "1", "unit": "", "notes": "Peeled and diced" },
       { "name": "Greek yogurt", "quantity": "1/2", "unit": "cup", "notes": "Plain" },
@@ -437,7 +437,7 @@
     "total_time": "45 minutes",
     "difficulty": "Intermediate",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/stuffed-bell-peppers.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyVGqVvDMQxJKKbSzP9TRHCKJ-hgmhftLcA&s",
     "ingredients": [
       { "name": "Bell peppers", "quantity": "4", "unit": "", "notes": "Any color" },
       { "name": "Ground beef", "quantity": "1", "unit": "lb", "notes": "" },
@@ -467,7 +467,7 @@
     "total_time": "40 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/pumpkin-soup.jpg",
+    "image_url": "https://img.taste.com.au/cQQtIoEO/taste/2016/11/pumpkin-soup-with-a-twist-71237-1.jpeg",
     "ingredients": [
       { "name": "Pumpkin puree", "quantity": "2", "unit": "cups", "notes": "Canned or fresh" },
       { "name": "Onion", "quantity": "1", "unit": "", "notes": "Chopped" },
@@ -496,7 +496,7 @@
     "total_time": "15 minutes",
     "difficulty": "Intermediate",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/chocolate-mousse.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13_nUyQn38QkPXJpP9pGwEqbRb81UL5pFkw&s",
     "ingredients": [
       { "name": "Dark chocolate", "quantity": "6", "unit": "oz", "notes": "Chopped" },
       { "name": "Eggs", "quantity": "3", "unit": "", "notes": "Separated" },
@@ -514,7 +514,7 @@
   },
   {
     "id": "16",
-    "title": "Beef Tacos",
+    "title": "Chicken Tacos",
     "description": "Delicious beef tacos with fresh toppings, perfect for a quick meal.",
     "author": "Jacob Young",
     "rating": 4.7,
@@ -524,7 +524,7 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/beef-tacos.jpg",
+    "image_url": "https://www.fromvalerieskitchen.com/wordpress/wp-content/uploads/2023/03/Crock-Pot-Chicken-Tacos-16.jpg",
     "ingredients": [
       { "name": "Ground beef", "quantity": "1", "unit": "lb", "notes": "" },
       { "name": "Taco seasoning", "quantity": "1", "unit": "packet", "notes": "" },
@@ -580,7 +580,7 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/baked-salmon.jpg",
+    "image_url": "https://spicecravings.com/wp-content/uploads/2021/09/Air-Fryer-Garlic-Bread-Featured.jpg",
     "ingredients": [
       { "name": "Salmon fillets", "quantity": "4", "unit": "", "notes": "Skinless" },
       { "name": "Lemon", "quantity": "1", "unit": "", "notes": "Juiced" },
@@ -608,7 +608,7 @@
     "total_time": "45 minutes",
     "difficulty": "Easy",
     "yield": "6 servings",
-    "image_url": "https://example.com/images/apple-crisp.jpg",
+    "image_url": "https://www.eatingbirdfood.com/wp-content/uploads/2022/11/healthy-apple-crisp-hero.jpg",
     "ingredients": [
       { "name": "Apples", "quantity": "6", "unit": "", "notes": "Peeled and sliced" },
       { "name": "Brown sugar", "quantity": "1/2", "unit": "cup", "notes": "" },
@@ -637,7 +637,7 @@
     "total_time": "25 minutes",
     "difficulty": "Easy",
     "yield": "4 servings",
-    "image_url": "https://example.com/images/pasta-primavera.jpg",
+    "image_url": "https://www.thereciperebel.com/wp-content/uploads/2023/04/pasta-primavera-TRR-10-of-19-500x500.jpg",
     "ingredients": [
       { "name": "Pasta", "quantity": "12", "unit": "oz", "notes": "Any type" },
       { "name": "Zucchini", "quantity": "1", "unit": "", "notes": "Sliced" },
