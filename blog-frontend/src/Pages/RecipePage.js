@@ -2,7 +2,8 @@ import { useParams } from "react-router-dom";
 import SampleArticles from "../TestData/SampleArticles.json";
 import IngredientsComponent from "../Components/RecipePageSection/IngredientsSection";
 import RecipeStepsComponent from "../Components/RecipePageSection/RecipeDirectionsSection";
-import RecipePageIntroComponent from "../Components/RecipePageSection/RecipeIntroSection/RecipeIntroSection";
+import RecipePageIntroComponent from "../Components/RecipePageSection/IntroSection/IntroSectionComponent";
+import ReviewSection from "../Components/RecipePageSection/ReviewSection/ReviewSectionComponent";
 import { Container } from "react-bootstrap";
 import TestNavbar2 from "../Components/TestNavbar2";
 
@@ -34,6 +35,7 @@ const RecipePage = () => {
         <RecipePageIntroComponent article={article}/>
         <IngredientsComponent ingredients={article.ingredients}/>
         <RecipeStepsComponent instructions={article.instructions}/>
+        <ReviewSection article={article}/>
       </Container>
     </>
   )
