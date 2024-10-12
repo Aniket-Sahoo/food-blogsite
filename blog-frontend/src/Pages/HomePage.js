@@ -1,6 +1,5 @@
 import TestNavbar from "../Components/TestNavBar";
 import TestNavbar2 from "../Components/TestNavbar2";
-import TestFlexBox from "../Components/TestFlexBox";
 import TopRecipesComponent from "../Components/HomePageSections/TopRecipesComponent.js";
 import ExploreComponent from "../Components/HomePageSections/ExploreComponent.js"; 
 import Container from "react-bootstrap/Container";

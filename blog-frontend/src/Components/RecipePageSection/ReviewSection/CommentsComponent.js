@@ -7,12 +7,15 @@ const CommentComponent = ({reviews}) => {
   const review = reviews[0];
   return (
     <>
-      <ul>
+      <ul className='list-unstyled'>
         {reviews.map((review, idx) => (
-          <li key={idx}>
-            <RecipeComment review={review} />
-          </li>
-        ))}
+          review.comment &&
+            (
+              <li key={idx}>
+                <RecipeComment review={review} />
+              </li>
+            )
+          ))}
       </ul>
     </>
   );

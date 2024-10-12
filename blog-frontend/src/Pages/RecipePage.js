@@ -6,18 +6,19 @@ import RecipePageIntroComponent from "../Components/RecipePageSection/IntroSecti
 import ReviewSection from "../Components/RecipePageSection/ReviewSection/ReviewSectionComponent";
 import { Container } from "react-bootstrap";
 import TestNavbar2 from "../Components/TestNavbar2";
+import SimilarRecipesComponent from "../Components/RecipePageSection/SimilarRecipesComponent";
 
 // path to this page is /recipes/:id
 /*
-  1. RecipeIntroSection
-  2. Media Section
-  3. DetailsCard
-  4. RecipeBlogSection
-  5. IngredientsSection
-  6. RecipeDirectionsSection
-  7. NutritionFactsSection
-  8. ReviewsSection
-  9. RelatedRecipesSection
+  1. RecipeIntroSection - Done
+  2. Media Section -
+  3. DetailsCard -
+  4. RecipeBlogSection -
+  5. IngredientsSection - Done
+  6. RecipeDirectionsSection - Done
+  7. NutritionFactsSection -
+  8. ReviewsSection - Done
+  9. RelatedRecipesSection - Done
 */
 const RecipePage = () => {
 
@@ -29,13 +30,11 @@ const RecipePage = () => {
     <>
       <TestNavbar2 />
       <Container className="border">
-        {/* <div>
-          <h1>{article.title}</h1>
-        </div> */}
         <RecipePageIntroComponent article={article}/>
         <IngredientsComponent ingredients={article.ingredients}/>
         <RecipeStepsComponent instructions={article.instructions}/>
         <ReviewSection article={article}/>
+        <SimilarRecipesComponent article={article}/>
       </Container>
     </>
   )
