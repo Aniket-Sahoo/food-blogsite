@@ -12,7 +12,7 @@ const IntroReviewBar = ({reviews}) => {
   const numReviews = reviews.reduce((acc, review) => acc + isNotEmptyString(review.comment), 0);
   return (
     <div className="d-flex align-items-center">
-      <Rating className='' name="half-rating-read" defaultValue={avgRating} precision={0.5} readOnly />
+      <Rating className='' name="half-rating-read" value={avgRating} precision={0.5} readOnly />
       <div className="me-2 p-1 border-end">{avgRating.toFixed(2)} ({reviews.length})</div>
       <div className="me-2 p-1">{numReviews} Reviews</div>
     </div>

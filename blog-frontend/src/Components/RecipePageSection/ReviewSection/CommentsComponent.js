@@ -3,8 +3,7 @@ import Rating from '@mui/material/Rating';
 import RecipeComment from './RecipeComment';
 
 const CommentComponent = ({reviews}) => {
-  console.log(reviews);
-  const review = reviews[0];
+  // console.log(reviews);
   return (
     <>
       <ul className='list-unstyled'>
