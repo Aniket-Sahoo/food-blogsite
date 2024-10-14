@@ -5,8 +5,10 @@ import RecipeStepsComponent from "../Components/RecipePageSection/RecipeDirectio
 import RecipePageIntroComponent from "../Components/RecipePageSection/IntroSection/IntroSectionComponent";
 import ReviewSection from "../Components/RecipePageSection/ReviewSection/ReviewSectionComponent";
 import { Container } from "react-bootstrap";
-import TestNavbar2 from "../Components/TestNavbar2";
+import TestNavbar2 from "../Components/CommonComponents/TestNavbar2";
 import SimilarRecipesComponent from "../Components/RecipePageSection/SimilarRecipesComponent";
+import axios from "axios";
+import { useEffect, useState } from "react";
 
 // path to this page is /recipes/:id
 /*
@@ -23,9 +25,35 @@ import SimilarRecipesComponent from "../Components/RecipePageSection/SimilarReci
 const RecipePage = () => {
 
   const { id } = useParams();
-  console.log(id);
-  const article = SampleArticles.find((article) => article.id === id);
+  // console.log(id);
 
+  // state variables
+  const [article, setRecipe] = useState({});
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await axios.get(`/api/food-blog/recipePage/${id}`);
+        setRecipe(response.data);
+        setIsLoading(false);
+      } catch (error) {
+          console.log(error);
+          setError("Failed to Load Recipe");
+          setIsLoading(false);
+      }
+    }
+    fetchData();
+  }, [id]);
+
+  if(isLoading) {
+    return <div>Loading...</div>
+  }
+  if(error) {
+    return <div>Error: {error}</div>
+  }
+  console.log(article);
   return (
     <>
       <TestNavbar2 />

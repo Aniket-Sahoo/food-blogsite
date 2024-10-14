@@ -1,5 +1,5 @@
-import TestNavbar from "../Components/TestNavBar";
-import TestNavbar2 from "../Components/TestNavbar2";
+import TestNavbar from "../Components/CommonComponents/TestNavBar.js";
+import TestNavbar2 from "../Components/CommonComponents/TestNavbar2.js";
 import TopRecipesComponent from "../Components/HomePageSections/TopRecipesComponent.js";
 import ExploreComponent from "../Components/HomePageSections/ExploreComponent.js"; 
 import Container from "react-bootstrap/Container";

@@ -6,9 +6,9 @@ const IntroReviewBar = ({reviews}) => {
   const totalRating = reviews.reduce((acc, review) => acc + review.rating, 0);
   const avgRating = totalRating / reviews.length || 0; // Handle case when reviews.length is 0
 
-  console.log(avgRating.toFixed(2));
-  console.log(typeof(avgRating));
-  console.log(typeof(avgRating.toFixed(2))); // this is a String, find a way to convert to number
+  // console.log(avgRating.toFixed(2));
+  // console.log(typeof(avgRating));
+  // console.log(typeof(avgRating.toFixed(2))); // this is a String, find a way to convert to number
   const numReviews = reviews.reduce((acc, review) => acc + isNotEmptyString(review.comment), 0);
   return (
     <div className="d-flex align-items-center">

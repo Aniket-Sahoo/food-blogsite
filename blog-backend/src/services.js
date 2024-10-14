@@ -10,7 +10,7 @@ const findPopular = () => {
 };
 
 const findLatest = () => {
-    const latestMeals = db.collection('recipes').find({}).sort({date_published: -1}).limit(4);
+    const latestMeals = db.collection('recipes').find({}).sort({date_published: -1}).limit(6);
     return latestMeals.toArray();
 };
 

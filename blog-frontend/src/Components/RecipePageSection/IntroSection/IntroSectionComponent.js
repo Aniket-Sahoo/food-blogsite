@@ -5,7 +5,7 @@ import IntroDescription from "./IntroDescription";
 // add recipe reviews, ratings and action footer. refer to https://www.allrecipes.com/recipe/274690/homemade-portuguese-chicken/
 
 const RecipePageIntroComponent = ({article}) => {
-  console.log(article);
+  // console.log(article);
   return (
     <>
       <section>

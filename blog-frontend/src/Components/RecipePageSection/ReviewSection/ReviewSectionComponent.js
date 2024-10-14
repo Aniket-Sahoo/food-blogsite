@@ -2,7 +2,7 @@ import NewReviewCard from "./NewReviewCard";
 import CommentComponent from "./CommentsComponent";
 
 const ReviewSection = ({article}) => {
-  console.log(article);
+  // console.log(article);
   return (
     <div className="border border-primary">
       <div>
